@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'dalianmao/laravel-captcha',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'e1cbb853458e831f4154cf73d43016c333bbebee',
         'type' => 'package',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -29,9 +29,9 @@
             'dev_requirement' => false,
         ),
         'dalianmao/laravel-captcha' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'e1cbb853458e831f4154cf73d43016c333bbebee',
             'type' => 'package',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

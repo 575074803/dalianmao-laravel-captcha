@@ -17,12 +17,6 @@
     "require": {
         "php": "^8.2",
         "ext-gd": "*",
-        "laravel/framework": "^11.0",
-        "illuminate/config": "^11.0",
-        "illuminate/filesystem": "^11.0",
-        "illuminate/support": "^11.0",
-        "illuminate/hashing": "^11.0",
-        "illuminate/session": "^11.0",
         "intervention/image": "~2.7"
     },
     "autoload-dev": {
