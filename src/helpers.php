@@ -8,7 +8,7 @@ if (!function_exists('captcha')) {
      * @return array|ImageManager|mixed
      * @throws Exception
      */
-    function captcha(string $config = 'default')
+    function captcha(string $config = 'default'): mixed
     {
         return app('captcha')->create($config);
     }
